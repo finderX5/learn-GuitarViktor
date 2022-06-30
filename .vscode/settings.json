@@ -7,7 +7,7 @@
             "savePath": "/src/css",
             "savePathSegmentKeys": null,
             "savePathReplaceSegmentsWith": null
-        }
+        },
         {
             "format": "compressed",
             "extensionName": ".css",
