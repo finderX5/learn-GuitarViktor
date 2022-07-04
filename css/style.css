@@ -10978,10 +10978,10 @@ html {
 }
 .title__hr {
   position: absolute;
-  top: 64px;
+  top: 68px;
   margin: 0;
   border: none;
-  border-top: 1px solid;
+  border-top: 2px solid black;
   width: 65px;
 }
 
