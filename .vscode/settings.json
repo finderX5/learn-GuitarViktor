@@ -4,14 +4,7 @@
         {
             "format": "expanded",
             "extensionName": ".css",
-            "savePath": "/src/css",
-            "savePathSegmentKeys": null,
-            "savePathReplaceSegmentsWith": null
-        },
-        {
-            "format": "compressed",
-            "extensionName": ".css",
-            "savePath": "/dist/css",
+            "savePath": "/css",
             "savePathSegmentKeys": null,
             "savePathReplaceSegmentsWith": null
         }
