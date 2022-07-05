@@ -10836,16 +10836,21 @@ html {
 .third-section__buttons {
   margin: 46px;
 }
+.third-section__decor {
+  z-index: 5;
+}
 .third-section__decor1 {
   width: 542px;
   position: absolute;
   top: 80px;
   left: 160px;
+  z-index: 1;
 }
 .third-section__text {
   max-width: 480px;
   margin: 0 auto;
   font-size: 18px;
+  z-index: 5;
 }
 .third-section__title-text {
   margin-bottom: 20px;
