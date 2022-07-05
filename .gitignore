@@ -1,6 +1,6 @@
-##Default .gitignore
+#Default .gitignore
 
-# Compiled source #
+## Compiled source #
 ###################
 *.com
 *.class
@@ -9,7 +9,7 @@
 *.o
 *.so
 
-# OS generated files #
+## OS generated files #
 ######################
 .DS_Store
 .DS_Store?
@@ -19,10 +19,14 @@
 ehthumbs.db
 Thumbs.db
 
-#Eclipse/Intellij
+## Eclipse/Intellij
 .classpath
 .project
 .settings/
 target/
 *.iml
 .idea/
+
+## Build Folder
+dist/
+build/
