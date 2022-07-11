@@ -10805,7 +10805,6 @@ html {
 }
 
 .second-section {
-  position: relative;
   padding-top: 32px;
   min-height: 700px;
 }
@@ -10815,15 +10814,18 @@ html {
 .second-section__first-elipse {
   position: absolute;
   top: 50px;
-  right: 290px;
+  right: -60px;
   transform: rotate(42deg);
   z-index: -2;
 }
 .second-section__second-elipse {
   position: absolute;
   bottom: 75px;
-  left: 320px;
+  left: -75px;
   z-index: -2;
+}
+.second-section .elipse__subtract {
+  background-color: white;
 }
 
 .third-section {
